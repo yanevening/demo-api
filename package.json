@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.18.2"},"description":"练手用的小 API","main":"server.js","name":"demo-api","scripts":{"start":"node server.js"},"version":"1.0.0"}
